@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18425169280",
+    "project_id": "hk-liberal-arts-comments",
+    "storage_bucket": "hk-liberal-arts-comments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18425169280:android:7d0f81d5275165e891ad65",
+        "android_client_info": {
+          "package_name": "com.hk.liberalartscomments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18425169280-o5j3ss1g7fbamkpui98jmrq259tiptva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE5SYsqO_dSWlQ_uqLvANlJgDkDkTXgFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18425169280-o5j3ss1g7fbamkpui98jmrq259tiptva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
