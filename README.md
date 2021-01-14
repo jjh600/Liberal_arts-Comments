@@ -1,6 +1,8 @@
 # 이시국앱
 
 한경대학교 교양정보 공유앱
+플레이스토어(https://play.google.com/store/apps/details?id=com.hk.liberalartscomments)
+앱스토어(https://apps.apple.com/kr/app/%EC%9D%B4%EC%8B%9C%EA%B5%AD%EC%95%B1/id1545524252)
 
 ## 스크린샷
 
